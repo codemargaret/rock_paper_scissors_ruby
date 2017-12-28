@@ -2,7 +2,7 @@
 
 #### _A Ruby app that returns the results of a game of rock, paper, scissors, 09.11.2017_
 
-#### By _**Margaret Berry**_
+#### By _**Margaret Berry and Dan Danilyuk**_
 
 ## Project Goals
 * _Refactor an existing app to use the Sinatra framework._
@@ -38,4 +38,4 @@ _If you have questions, comments, or concerns, please contact [Margaret](codeber
 ### License
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_Margaret Berry_**
+Copyright (c) 2017 **_Margaret Berry and Dan Danilyuk_**
